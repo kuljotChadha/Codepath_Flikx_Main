@@ -1,0 +1,6 @@
+framework module Pods_Flikx_FlikxUITests {
+  umbrella header "Pods-Flikx-FlikxUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
